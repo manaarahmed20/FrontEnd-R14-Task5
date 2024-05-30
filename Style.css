@@ -1,0 +1,58 @@
+*{
+    font-family: "Montserrat", sans-serif;
+}
+
+.container{
+    width: 1440px;
+    height: 670px;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0), rgb(0, 0, 0)), url(#hero-cover.1.jpg); 
+    opacity: 0.9;
+    margin: auto;
+    
+}
+
+.main{
+    padding-top: 220px;
+    padding-left: 182px;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.sub{
+    padding-left: 182px;
+    font-weight: 300;
+    line-height: 30px;
+    color: rgb(255, 255, 255);
+}
+
+#quote{
+    
+    background: #23A6F0;
+    color: rgb(255, 255, 255);
+    border-radius: 100px;
+    display: inline-block;
+    height: 75%;
+    width: 45%;
+    text-decoration: none;
+    padding-top: 10px;
+    text-align: center;
+}
+
+#learnMore{
+    color: rgb(255, 255, 255);
+    border: #ffffff solid 1px;
+    border-radius: 100px;
+    display: inline-block;
+    height: 75%;
+    width: 45%;
+    text-decoration: none;
+    padding-top: 10px;
+    text-align: center;
+    background-color: transparent;
+}
+
+.buttons{
+    padding-left: 182px;
+    width: 450px;
+    height: 52px;
+}
